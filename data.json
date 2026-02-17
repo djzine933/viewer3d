@@ -1,0 +1,13 @@
+{
+  "paris": {
+    "nom": "Laboratoire Paris Centre",
+    "adresse": "12 rue Exemple, 75000 Paris",
+    "tel": "01 00 00 00 00"
+  },
+
+  "lyon": {
+    "nom": "Laboratoire Lyon Est",
+    "adresse": "5 avenue Exemple, 69000 Lyon",
+    "tel": "04 00 00 00 00"
+  }
+}
